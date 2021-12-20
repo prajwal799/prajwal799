@@ -35,4 +35,4 @@
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/BRdhanani)](https://github.com/prajwal799) 
 
 
-⭐️ From [@BRdhanani](https://github.com/prajwal799)
+⭐️ From [@PrajwalGoyal](https://github.com/prajwal799)
